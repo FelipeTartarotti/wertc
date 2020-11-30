@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "web-rtc"
+    }
+  },
+  "defaultProject": "web-rtc",
+  "cli": {
+    "analytics": "9bcd31e2-d9e1-4814-871c-42a49bcd28bf"
+  }
 }
